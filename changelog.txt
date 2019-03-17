@@ -1,4 +1,32 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+Date: March, 16th 2019
+  Added:
+    - Deadlock's Stacking Beltboxes & Compact Loaders (Only Loaders enabled.)
+    - Deadlock's Integrations
+    - Changed starting items from megabotstart to our own.
+    - Change some startup config options.
+
+  Removed:
+    - Angel's Industries (Not updated to 0.17 yet)
+    - Auto research (Not in line with our concept)
+    - Crafting Speed Research (Duplicate)
+    - Mega Bot Start (Custom coding something more in line with our needs)
+    - Miniloader (replaced with Deadlocks)
+    - Waterfill (Duplicate)
+
+  Set to Optional:
+    - Afraid of the Dark
+    - Blueprint Flipper/Turner
+    - Bottleneck
+    - Enhanced Map Colors
+    - FNEI
+    - Helmod
+    - More Minimap Autohide
+    - Tapeline
+    - Todo List
+
+---------------------------------------------------------------------------------------------------
 Version: 0.17.2
 Date: March, 16th 2019
   Bug Fix:
